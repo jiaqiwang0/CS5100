@@ -7,7 +7,7 @@ as well as the number of resulting fatalities, for future dates.
 
 ## Dataset  
 
-We use the COVID19 time series data from John Hopkins CSSE. This repository is updated once a day.   
+We use the COVID19 time series data from [John Hopkins CSSE]. This repository is updated once a day.   
 
 At the time we started our project, the data is updated to 17/10/22. Therefore, the visualization and model training are based on the data before that date.  
 
@@ -27,4 +27,4 @@ Because the recovered dataset is not updated after 5/8/21, we use the confirmed 
 
 
 
-![John Hopkins CSSE]https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+[John Hopkins CSSE]: <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series>
