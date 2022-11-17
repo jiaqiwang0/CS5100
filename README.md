@@ -1,5 +1,15 @@
 # CS5100 Final Project
 
+## PEAS Environment -- Demonstrating PEAS Environment in the project
+1. Agent Type: Internet Covid Forecasting Agent
+2. Performance Measure: Provide users with accurate data forecasting 
+3. Environment: Internet
+4. Actuators: Follow link, choose the data in fields, display to user
+5. Sensors: Web page, user requests
+
+Issues remain to do:
+-[ ] Web page development
+
 ## Introduction  
 
 Our goal of this project is to predict the cumulative number of confirmed COVID19 cases in various locations across the world, 
