@@ -1,5 +1,9 @@
 # CS5100 Final Project
 
+## Targeted Environment -- Demonstrate the software resources necessary to build and maintain the product  
+
+We use models in the [statsmodels.tsa] library to perform time series analysis and prediction on the dataset.
+
 ## PEAS Environment -- Demonstrating PEAS Environment in the project
 1. Agent Type: Internet Covid Forecasting Agent
 2. Performance Measure: Provide users with accurate data forecasting 
@@ -36,5 +40,5 @@ Because the recovered dataset is not updated after 5/8/21, we use the confirmed 
 
 
 
-
+[statsmodels.tsa]: <https://www.statsmodels.org/stable/tsa.html#module-statsmodels.tsa>
 [John Hopkins CSSE]: <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series>
