@@ -36,7 +36,8 @@ Because the recovered dataset is not updated after 5/8/21, we use the confirmed 
 1. data_preprocessiong.ipynb combines the confirmed, deaths, and recovered data, and clean the data. 
 2. CS5100_covid_forcasting_visualization.ipynb provides data visualization.
 3. CS5100_covid_forcasting_modeling_confirmed.ipynb trains different models for forecasting.
-4. 
+4. CS5100_covid_forcasting_deaths_recovery.ipynb trains different models for death and recovery status.
+
 
 
 
