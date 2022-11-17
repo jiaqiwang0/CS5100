@@ -5,7 +5,7 @@
 Our goal of this project is to predict the cumulative number of confirmed COVID19 cases in various locations across the world, 
 as well as the number of resulting fatalities, for future dates.  
 
-## Dataset. 
+## Dataset  
 
 We use the COVID19 time series data from John Hopkins CSSE. This repository is updated once a day.   
 
@@ -19,7 +19,10 @@ Because the recovered dataset is not updated after 5/8/21, we use the confirmed 
 
 ## How to read the files in our repo
 
-1. 
+1. data_preprocessiong.ipynb combines the confirmed, deaths, and recovered data, and clean the data. 
+2. CS5100_covid_forcasting_visualization.ipynb provides data visualization.
+3. CS5100_covid_forcasting_modeling_confirmed.ipynb trains different models for forecasting.
+4. 
 
 
 
