@@ -11,7 +11,7 @@ We use models in the [statsmodels.tsa] library to perform time series analysis a
 4. Actuators: Follow link, choose the data in fields, display to user
 5. Sensors: Web page, user requests
 
-## UI page
+## UI page Repository
 https://github.com/jiaqiwang0/COVID_Forecasting
 
 ## Introduction  
